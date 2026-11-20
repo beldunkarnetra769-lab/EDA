@@ -11,7 +11,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) and data prep
 - Loan_Amount_Term
 - Dependents
 - Married
-- 
+  
 ## 3. Handling Outliers
 - Winsorize Method
 - IQR Method
@@ -25,17 +25,17 @@ This project focuses on performing Exploratory Data Analysis (EDA) and data prep
 - Histogram
 - KDE Plot
 - Box Plot
-- 
+  
 ## 6. Transformation Techniques
 - Log Transformation
 - Exponential Transformation
 - Square Root Transformation
 - Box-Cox Transformation
-- 
+  
 ## 7. Scaling Techniques
 - Standard Scaling
 - Min-Max Scaling
 - Robust Scaling
-- 
+  
 ## 8. Conclusion
 Performed data preprocessing and exploratory data analysis on the Loan Approval dataset using different techniques.
