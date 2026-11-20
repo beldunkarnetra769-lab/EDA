@@ -20,7 +20,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) and data prep
 - One Hot Encoding
 - Label Encoding
 - Ordinal Encoding
-- 
+  
 ## 5. Data Visualization
 - Histogram
 - KDE Plot
