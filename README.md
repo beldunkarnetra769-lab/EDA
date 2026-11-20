@@ -15,7 +15,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) and data prep
 ## 3. Handling Outliers
 - Winsorize Method
 - IQR Method
-- 
+  
 ## 4. Encoding Techniques
 - One Hot Encoding
 - Label Encoding
